@@ -1,1 +1,1 @@
-### Sentiment Analysis with VADER on Amazon Reviews
+### Sentiment Analysis of Amazon Reviews using VADER
